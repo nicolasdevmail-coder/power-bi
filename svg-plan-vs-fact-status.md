@@ -56,4 +56,5 @@ VAR SVG =
     "</svg>"
 
 RETURN
-    IF ( NOT ISBLANK ( PlanVal ) && NOT ISBLANK ( FactVal ), SVG, BLANK () )```
+    IF ( NOT ISBLANK ( PlanVal ) && NOT ISBLANK ( FactVal ), SVG, BLANK () )
+```
