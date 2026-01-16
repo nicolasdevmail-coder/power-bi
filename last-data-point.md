@@ -1,7 +1,7 @@
 # Last Data Point Measure
 
 ## Description
-This measure shows values only for the latest date in the current filter context, helping to highlight the most recent data point.
+This measure displays values only for the latest date within the current filter context, highlighting the most recent data point.
 
 **Use case:** Display only the most current data in visuals while filtering out historical dates.
 
